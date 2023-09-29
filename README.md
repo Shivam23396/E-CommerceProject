@@ -20,7 +20,7 @@ Sprint 3
 
 As a developer my role is build a succcessuful dynamic web pages. I had make the proper use of html for page structure, CSS for styling the page so that it will look attractive and amazing for the client.
 
-PROJECT GITHUB REPOSITORY Link: https://github.com/Shivam23396/FlyAway
+PROJECT GITHUB REPOSITORY Link: https://github.com/Shivam23396/E-CommerceProject.git
 
 Screen shots
 
